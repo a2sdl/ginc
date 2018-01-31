@@ -1,2 +1,2 @@
 # ginc
-Generate webapp based on gin
+Generate webapp based on chi
